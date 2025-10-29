@@ -3,8 +3,8 @@ import requests
 import json
 from supadata import Supadata
 
-supadata_api_key = st.secrets("supadata_api_key")
-glm_api_key = st.secrets("glm_api_key")
+supadata_api_key = st.secrets["supadata_api_key"]
+glm_api_key = st.secrets["glm_api_key"]
 
 llm_url = "https://api.z.ai/api/paas/v4/chat/completions"
 
