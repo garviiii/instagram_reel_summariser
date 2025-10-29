@@ -1,1 +1,1 @@
-a simple app for those who don't want to watch reels but want to get knowledge from them :)
+A simple app for people who want the knowledge from reels without actually watching them :)
